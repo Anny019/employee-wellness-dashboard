@@ -1,31 +1,70 @@
 # Employee Wellness Dashboard (Power BI)
 
 ## 📊 Overview
-This project analyzes employee wellness using Power BI, focusing on burnout risk, energy levels, and engagement.
+This project analyzes employee wellness using Power BI, focusing on burnout risk, energy levels, engagement, and sustainability. The dashboard provides interactive insights to support data-driven decision-making for HR and management.
+
+---
 
 ## 🎯 Objective
-To identify high-risk employees and provide actionable insights for improving wellness.
+- Identify high-risk employees (burnout)
+- Analyze energy and engagement levels
+- Provide actionable insights for improving employee wellness
 
-## 📊 Key Insights
-- ~61% users are in Moderate burnout
-- ~7% users are High-risk
-- Majority users show Mild Fatigue / Low Energy
-- Overall wellness is moderate
+---
 
-## 📈 Prediction
-Moderate burnout users may move to high-risk if no intervention is taken.
+## 📊 Dashboard Preview
+<img src="dashboard.png" width="800">
+
+---
+
+## 📈 Insights View
+<img src="insights.png" width="800">
+
+---
+
+## 🔍 Key Insights
+- ~61% users fall under **Moderate burnout**
+- ~7% users are **High-risk** and need immediate attention
+- Majority users show **Mild Fatigue / Low Energy**
+- Overall wellness levels are **moderate**
+
+---
+
+## 🔮 Prediction
+Moderate burnout users may transition to **high-risk** if no intervention is implemented.
+
+---
 
 ## 🛠 Tools Used
-- Power BI
-- Excel
+- Power BI  
+- Excel  
 
-## 📸 Dashboard Preview
-![Dashboard](dashboard_screenshot.png)
+---
 
 ## 📂 Files Included
-- Power BI Dashboard (.pbix)
-- Dataset (.xlsx)
-- Report (.pdf)
+- Power BI Dashboard (`.pbix`)
+- Dataset (`.xlsx`)
+- Report (`.pdf`)
+- Dashboard Screenshots
+
+---
+
+## 💡 Recommendations
+- Provide targeted support for high-risk employees  
+- Improve engagement through wellness programs  
+- Focus on boosting energy levels  
+- Monitor KPIs regularly for early intervention  
+
+---
 
 ## 🚀 Conclusion
-This dashboard enables data-driven decisions to improve employee wellness and reduce burnout risk.
+This dashboard enables organizations to monitor employee wellness effectively and take proactive steps to reduce burnout and improve overall productivity.
+
+---
+
+## 📌 Project Highlights
+- Interactive Power BI dashboard  
+- Real-world business insights  
+- Data-driven recommendations  
+- GitHub portfolio project  
+
