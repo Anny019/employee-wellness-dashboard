@@ -1,5 +1,5 @@
 # Employee Wellness Dashboard (Power BI)
-
+🚀 A data-driven Power BI project to analyze employee wellness, identify burnout risks, and support strategic HR decision-making.
 ## 📊 Overview
 This project analyzes employee wellness using Power BI, focusing on burnout risk, energy levels, engagement, and sustainability. The dashboard provides interactive insights to support data-driven decision-making for HR and management.
 
